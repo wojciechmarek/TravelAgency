@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/travel1.jpeg",
+    "alt": "Ocean Side",
+    "name": "Ocean Side",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel2.jpeg",
+    "alt": "Boulevard of Ren",
+    "name": "Boulevard of Ren",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel3.jpeg",
+    "alt": "Village underneath the Alps",
+    "name": "Village underneath the Alps",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel4.jpeg",
+    "alt": "Tropical Island",
+    "name": "Tropical Island",
+    "button": "View Destination"
+  }
+]
