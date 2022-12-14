@@ -5,10 +5,10 @@ import { FaBars } from "react-icons/fa"
 import { menuData } from "../data/MenuData"
 import { Button } from "./Button"
 
-const Header = ({}) => {
+const Header = () => {
   return (
     <Nav>
-      <NavLink to="/">EXPLORING</NavLink>
+      <NavLink to="/">EXPLORIX</NavLink>
       <Bars />
       <NavMenu>
         {menuData.map((item, index) => (
